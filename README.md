@@ -6,6 +6,8 @@ I'm Fehmi Can OKUR.Computer Technician
 
 ![Fehmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcokur)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcokur)
+
 
 ## Currently Studying
 
