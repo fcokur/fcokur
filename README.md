@@ -4,8 +4,6 @@ I'm Fehmi Can OKUR.Computer Technician
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fcokur)
 
-![Fehmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcokur&show_icons=true)
-
 ## Currently Studying
 
 A.S in Computer Programming |  [Kırklareli University](https://www.klu.edu.tr/)
