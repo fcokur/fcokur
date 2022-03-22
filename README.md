@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development and C#
 - 💬 Ask me about Html and Css
 - 📫 How to reach me: [Twitter](https://www.twitter.com/fehmiokur06)
-- 👨‍💻 Read more about my projects at [fcokur.com](https://www.fcokur.com)
+- 👨‍💻 Read more about my projects at [dev.to/fcokur](https://dev.to/fcokur)
