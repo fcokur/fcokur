@@ -1,7 +1,5 @@
 ### Hi! Welcome to my github page. 👋
 
-I'm Fehmi Can OKUR.Computer Technician
-
 ![Profile Views](https://komarev.com/ghpvc/?username=fcokur)
 
 ![Fehmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcokur)
