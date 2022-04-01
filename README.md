@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      - 🤔 I’m looking for help with ...   
      - 👯 I’m looking to collaborate on ...
 -->
-- 🌱 I’m currently learning Web Development and C#
+- 🌱 I’m currently learning C#
 - 💬 Ask me about Html and Css
 - 📫 How to reach me: [Twitter](https://www.twitter.com/fehmicanokur)
 - 👨‍💻 Read more about my worksheets at [Medium](https://medium.com/@fcokur)
