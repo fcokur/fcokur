@@ -18,6 +18,6 @@ Here are some ideas to get you started:
      - 👯 I’m looking to collaborate on ...
 -->
 - 🌱 I’m currently learning C#
-- 💬 Ask me about Html and Css
+<!-- - 💬 Ask me about Html and Css --> 
 - 📫 How to reach me: [Twitter](https://www.twitter.com/fehmicanokur)
 - 👨‍💻 Read more about my worksheets at [Medium](https://medium.com/@fcokur)
