@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about Html and Css -->
 - 🌱 I’m currently learning C# 
 - 📫 How to reach me: [Twitter](https://www.twitter.com/fehmicanokur)
-- 👨‍💻 Read more about my worksheets at [Medium](https://medium.com/@fcokur)
+<!-- - 👨‍💻 Read more about my worksheets at [Medium](https://medium.com/@fcokur) -->
