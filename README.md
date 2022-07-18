@@ -1,7 +1,5 @@
 ### Hi! Welcome to my github page. 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=fcokur)
-
 ![Fehmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcokur)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcokur&layout=compact)
